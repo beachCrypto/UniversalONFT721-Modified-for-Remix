@@ -1,5 +1,6 @@
-# UniversalONFT721WithImport
-UniversalONFT721 derivative using imports for use in Remix
+# LayerZero UniversalONFT721 derivative modified for use in Remix
+
+Original - https://github.com/LayerZero-Labs/solidity-examples/blob/main/contracts/token/onft/extension/UniversalONFT721.sol
 
 To use this with Remix set "Enable Optimization" 200
 
